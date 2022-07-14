@@ -1,0 +1,9 @@
+https://ubuntu.com/tutorials/create-a-usb-stick-on-windows
+
+https://rufus.ie/en/
+
+I am considering just copy pasting the entire official tutorial (text only).
+
+https://kubuntu.org/getkubuntu/
+
+https://lubuntu.me/downloads/
